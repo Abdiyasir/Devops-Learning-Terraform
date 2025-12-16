@@ -11,6 +11,11 @@ I will be showcasing each step below with screenshots, this includes the configu
 
 
 ## Step 2 - EC2 Instance
+- I created a new file to define the EC2 instance so it can then host the WordPress website. This terraform configuration specifies the AMI ID, instance type, security group and public ID assignment.
+- Enabling a public IP assigns an IP address to the EC2 instance, allowing external users to access the WordPress website.
+- It also includes the user data script, this runs when the instance is launched to install and configure required sofrwared for the application.
+<img width="1422" height="907" alt="image" src="https://github.com/user-attachments/assets/336f330d-fef4-497b-ab3a-c371fabf6425" />
+
 
 ## Step 3 - Variables
 
@@ -19,5 +24,6 @@ I will be showcasing each step below with screenshots, this includes the configu
 ## Step 5 - Running the Terraform Directory
 
 ## Step 6 - Fully working WordPress
+
 
 

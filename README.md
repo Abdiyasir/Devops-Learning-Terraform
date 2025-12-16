@@ -18,12 +18,21 @@ I will be showcasing each step below with screenshots, this includes the configu
 
 
 ## Step 3 - Variables
+- I created a variables file to make the Terraform configuration dynamic and reusable.
+- This allows the EC2 instance type and AMI ID to be changed when needed without needing to change the infrastructure.
+<img width="1423" height="331" alt="image" src="https://github.com/user-attachments/assets/7b8504af-f4b3-4b36-8541-bda4f5a8984b" />
 
-## Step 4 - Modules
+## Step 4 - Outputs
+- The output file is a Terraform configuration that prints the public IP address on the terminal after running the Terraform directory.
+- This IP address can then be used to connect to the EC2 instance via the internet search bar.
+<img width="1436" height="362" alt="image" src="https://github.com/user-attachments/assets/f9542324-cfe6-49fe-9a7c-e47c78dad2e3" />
 
-## Step 5 - Running the Terraform Directory
+## Step 5 - Modules
 
-## Step 6 - Fully working WordPress
+## Step 6 - Running the Terraform Directory
+
+## Step 7 - Fully working WordPress
+
 
 
 

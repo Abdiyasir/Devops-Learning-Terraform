@@ -31,6 +31,7 @@ I will be showcasing each step below with screenshots, this includes the configu
 - I used the modules to define  what to build via the resources and variables.
 - The real values exist outside the module in the root configuration.
 - This enables reusability and enforces standards at scale.
+<img width="195" height="547" alt="image" src="https://github.com/user-attachments/assets/66d8cea8-39a8-498f-867c-3ac2cbc2bbd3" />
 
 ## Step 6 - Running the Terraform Directory
 - ``terraform init`` - Initialises the working directory by installing dependencies.
@@ -40,6 +41,7 @@ I will be showcasing each step below with screenshots, this includes the configu
 
 <img width="1403" height="541" alt="image" src="https://github.com/user-attachments/assets/da7c08ab-8beb-4d27-a167-f3331dc3b87a" />
 <img width="1913" height="963" alt="image" src="https://github.com/user-attachments/assets/4b050ad3-a7b4-415c-9717-58a37c35bc97" />
+
 
 
 

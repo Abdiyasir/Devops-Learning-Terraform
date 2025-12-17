@@ -1,4 +1,4 @@
-﻿# Devops-Learning-Terraform
+﻿# Terraform WordPress Assignment
 
 This repository shows how I deployed a WordPress website via AWS with full end to end infrastructure management using Infrastructure as Code via Terraform.
 
@@ -40,6 +40,7 @@ I will be showcasing each step below with screenshots, this includes the configu
 
 <img width="1403" height="541" alt="image" src="https://github.com/user-attachments/assets/da7c08ab-8beb-4d27-a167-f3331dc3b87a" />
 <img width="1913" height="963" alt="image" src="https://github.com/user-attachments/assets/4b050ad3-a7b4-415c-9717-58a37c35bc97" />
+
 
 
 

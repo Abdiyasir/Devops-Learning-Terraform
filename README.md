@@ -28,10 +28,19 @@ I will be showcasing each step below with screenshots, this includes the configu
 <img width="1436" height="362" alt="image" src="https://github.com/user-attachments/assets/f9542324-cfe6-49fe-9a7c-e47c78dad2e3" />
 
 ## Step 5 - Modules
+- I used the modules to define  what to build via the resources and variables.
+- The real values exist outside the module in the root configuration.
+- This enables reusability and enforces standards at scale.
 
 ## Step 6 - Running the Terraform Directory
-
+- ``terraform init`` - Initialises the working directory by installing dependencies.
+- ``terraform plam`` - Previews the changes from the current state to the infrastructure you are building.
+- ``terraform apply`` - Executes the terraform plan and updates the state file.
 ## Step 7 - Fully working WordPress
+
+<img width="1403" height="541" alt="image" src="https://github.com/user-attachments/assets/da7c08ab-8beb-4d27-a167-f3331dc3b87a" />
+<img width="1913" height="963" alt="image" src="https://github.com/user-attachments/assets/4b050ad3-a7b4-415c-9717-58a37c35bc97" />
+
 
 
 

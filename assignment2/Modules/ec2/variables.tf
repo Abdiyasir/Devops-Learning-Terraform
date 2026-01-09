@@ -1,11 +1,13 @@
-variable "instance_type" {
-  description = "EC2 Instance Type"
+variable "instance_ami" {
   type        = string
+  description = "AMI ID"
+
 }
 
-variable "instance_ami" {
-  description = "AMI ID for EC2 Instance"
+variable "instance_type" {
   type        = string
+  description = "EC2 Instance Type"
+
 }
 
 variable "security_group" {
@@ -13,5 +15,3 @@ variable "security_group" {
   description = "SG for EC2"
 
 }
-
-

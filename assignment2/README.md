@@ -1,5 +1,6 @@
 # Terraform EC2 Deployment with Cloud-Init Assignment
 
-- This repository shows how I configured a cloud-init file via Terraform to automate an EC2 deployment.
- 
+This repository shows how I configured a cloud-init file via Terraform to automate an EC2 deployment.
+I will be showcasing each step below with screenshots. 
+
 

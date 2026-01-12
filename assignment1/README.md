@@ -2,7 +2,7 @@
 
 This repository shows how I deployed a WordPress website via AWS with full end to end infrastructure management using Infrastructure as Code via Terraform.
 
-I will be showcasing each step below with screenshots, this includes the configuration of the provider block, the ec2 instance block, variables & more.
+I will be showcasing each step below with screenshots.
 
 ## Step 1 - Terraform Provider
 - The initial step is to build a provider block, this allows Terraform to connect to the cloud using the configuration settings.
@@ -34,6 +34,7 @@ I will be showcasing each step below with screenshots, this includes the configu
 ## Step 7 - Fully working WordPress
 <img width="391" height="77" alt="image" src="https://github.com/user-attachments/assets/155e59a6-7d75-422a-840b-2a4f1edbf84c" />
 <img width="1913" height="957" alt="image" src="https://github.com/user-attachments/assets/4d043b10-6d12-439c-80f7-a0d3ae674129" />
+
 
 
 

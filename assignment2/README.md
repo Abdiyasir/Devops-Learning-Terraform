@@ -30,5 +30,11 @@ I will be showcasing each step below with screenshots.
 - terraform plam - Previews the changes from the current state to the infrastructure you are building.
 - terraform apply - Executes the terraform plan and updates the state file.
 
+## Step 7 - Fully working NGINX page
+
+<img width="1595" height="445" alt="image" src="https://github.com/user-attachments/assets/272adac2-b1a6-46c6-ae3a-21857ed18cfb" />
+
+
+
 
 

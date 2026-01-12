@@ -1,1 +1,2 @@
-# Assignment 2 – EC2 Deployment with Cloud-Init
+# Terraform EC2 Deployment with Cloud-Init Assignment
+

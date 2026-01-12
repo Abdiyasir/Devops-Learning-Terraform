@@ -1,6 +1,6 @@
-# Terraform EC2 Deployment with Cloud-Init Assignment
+# Terraform Cloud-Init Assignment
 
-This repository shows how I configured a cloud-init file via Terraform to automate an EC2 deployment.
+This repository shows how I configured a cloud-init YAML file via Terraform to automate an EC2 deployment for an NGINX web server.
 
 I will be showcasing each step below with screenshots. 
 
@@ -33,6 +33,7 @@ I will be showcasing each step below with screenshots.
 ## Step 7 - Fully working NGINX page
 
 <img width="1595" height="445" alt="image" src="https://github.com/user-attachments/assets/272adac2-b1a6-46c6-ae3a-21857ed18cfb" />
+
 
 
 
